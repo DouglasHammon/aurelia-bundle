@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "IncomeSolutions.VirtualOffice.Core", "IncomeSolutions.VirtualOffice.Core\IncomeSolutions.VirtualOffice.Core.xproj", "{B2BA7883-ECCD-4F96-8409-49C83C5ACCD2}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "IncomeSolutions.VirtualOffice.WebApi", "IncomeSolutions.VirtualOffice.WebApi\IncomeSolutions.VirtualOffice.WebApi.xproj", "{86615279-3AB1-482B-B002-82280DA2DD8B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "IncomeSolutions.VirtualOffice.Web", "IncomeSolutions.VirtualOffice.Web\IncomeSolutions.VirtualOffice.Web.xproj", "{0FCA446C-D0B8-4F10-B615-982A4360DE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BA7883-ECCD-4F96-8409-49C83C5ACCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BA7883-ECCD-4F96-8409-49C83C5ACCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BA7883-ECCD-4F96-8409-49C83C5ACCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BA7883-ECCD-4F96-8409-49C83C5ACCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86615279-3AB1-482B-B002-82280DA2DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86615279-3AB1-482B-B002-82280DA2DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86615279-3AB1-482B-B002-82280DA2DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86615279-3AB1-482B-B002-82280DA2DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCA446C-D0B8-4F10-B615-982A4360DE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCA446C-D0B8-4F10-B615-982A4360DE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCA446C-D0B8-4F10-B615-982A4360DE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCA446C-D0B8-4F10-B615-982A4360DE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

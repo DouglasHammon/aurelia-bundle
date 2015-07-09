@@ -1,0 +1,23 @@
+{
+  "jspm": {
+    "directories": {
+      "baseURL": "wwwroot",
+      "packages": "jspm_packages"
+    },
+    "dependencies": {
+      "aurelia-bootstrapper": "github:aurelia/bootstrapper@^0.14.0",
+      "aurelia-framework": "github:aurelia/framework@^0.13.2",
+      "traceur": "github:jmcriffey/bower-traceur@^0.0.90",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@^0.0.90"
+    },
+    "devDependencies": {
+      "core-js": "npm:core-js@^0.9.4",
+      "traceur": "github:jmcriffey/bower-traceur@0.0.88",
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.88"
+    }
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "jspm": "^0.15.7"
+  }
+}
